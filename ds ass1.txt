@@ -1,0 +1,63 @@
+2.some of them are homogenous and some of them are hetrogenous.
+3.it is homogenous because mean and median values are close to each other.
+4.it is hetrogenous because mean and median values are not close to each other.
+5.these variables are homegenous(indus,chas,nox,rm,dis,ptratio,istat,medv) and these are hetrogenous(crim,zn,age,rad,tax,b).
+6.there are 14 variables and 507 rows in this data.
+7.MCT
+  mean: 
+    crim-3.61352
+    Ishat-12.6531
+    medv-22.533
+  median:
+    crim-0.2561
+    Ishat-11.36
+    medv-21.2
+  mode:
+     crim-0.015
+    Ishat-8.05
+    medv-50
+quartiles(crim)
+     min=0.0063
+     Q1=0.08
+     Q2=0.2565
+     Q3=3.6771
+     max=88.976
+quartiles(Ishat)
+     min=1.73
+     Q1=6.95
+     Q2=11.36
+     Q3=16.955  
+     max=37.97
+quartiles(medv)
+     min=5 
+     Q1=17.025
+     Q2=21.2
+     Q3=25
+     max=50
+MOD
+  Range 
+      crim =88.97
+      Ishat=36.24
+      medv=45
+ variance 
+      crim =73.987
+      Ishat=50.99
+      medv=84.587
+ IQR 
+      crim =3.59
+      Ishat=10.05
+      medv=7.975
+
+skewness
+   crim -variable crim is positive skewed.
+   Ishat-variable Ishat is positive skewed.
+   medv-variable medv is positive skewed.
+kurtosis
+   crim -tail is thick and its leptokurtic.
+   Ishat-tail is thick and its leptokurtic.
+   medv-tail is thick and its leptokurtic.
+
+
+
+ 
+    
